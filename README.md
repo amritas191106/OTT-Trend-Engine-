@@ -1,3 +1,4 @@
+
 # OTT Streaming Trend Engine
 
 A multi-agent system that identifies currently trending movies/TV shows,
@@ -120,3 +121,7 @@ ott-trend-engine/
 ## Example Output
 
 See `output/` after running for a generated sample report.
+
+# OTT-Trend-Engine-
+Multi-agent OTT streaming trend analysis engine -  Agentic AI capstone
+a5e93c8250f03409dbfb134f7ab49378a73452bb
